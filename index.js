@@ -1,17 +1,17 @@
 function add(a, b){
-  return
+  return a + b;
 }
 
 function subtract(a, b){
-  return
+  return a -b;
 }
 
 function multiply(a, b){
-  return 
+  return a * b;
 }
 
 function square(num){
-  return
+  return num * num;
 }
 
 function squareRoot(num){
